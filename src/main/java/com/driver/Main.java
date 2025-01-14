@@ -6,5 +6,7 @@ public class Main {
         rwOnly.setName("Mushfique");
 //        System.out.println(rwOnly.name);//name has private access in com.driver.RWonly
         System.out.println(rwOnly.getName());
+
+        //for checking github commit successful or not
     }
 }
